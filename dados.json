@@ -1,0 +1,72 @@
+{
+    "usuarios": {
+        "felipe.felix": {
+            "hash": "a320480f534776bddb5cdb54b1e93d210a3c7d199e80a23c1b2178497b184c76",
+            "tipo": "admin"
+        },
+        "rafaela.barreyra": {
+            "hash": "a320480f534776bddb5cdb54b1e93d210a3c7d199e80a23c1b2178497b184c76",
+            "tipo": "professor"
+        },
+        "ademir.felix": {
+            "hash": "a320480f534776bddb5cdb54b1e93d210a3c7d199e80a23c1b2178497b184c76",
+            "tipo": "aluno"
+        }
+    },
+    "alunos": [
+        {
+            "usuario_login": "ademir.felix",
+            "nome_criptografado": "gAAAAABpFthniFO0xNckcHxjPgC9wh4ZojujzX9IedSsERy_0PhE9H3qw50zuF4820yT81jpvwpme41MsnBPulkM46BUInT-bw==",
+            "ra_criptografado": "gAAAAABpFthnIDFZSclvFd9XXvOYzARZVZ1jOtvUgAzp5NAC1gNTySRB_TxPJNRJcNthGOub-433K-yyfnlDIX-0-QLKwl7mMg==",
+            "turma_id": "Nenhuma",
+            "notas_c": {
+                "PIM": 10.0,
+                "ENG_SOFT_AGIL": {
+                    "NP1": 10.0,
+                    "NP2": 5.0
+                },
+                "ALGOR_ESTRUT_PYTHON": {
+                    "NP1": 0.0,
+                    "NP2": 0.0
+                },
+                "PROG_ESTRUT_C": {
+                    "NP1": 0.0,
+                    "NP2": 0.0
+                },
+                "ANALISE_PROJ_SIST": {
+                    "NP1": 0.0,
+                    "NP2": 0.0
+                },
+                "PESQ_TEC_INOV": {
+                    "NP1": 0.0,
+                    "NP2": 0.0
+                },
+                "EDU_AMBIENTAL": {
+                    "NP1": 0.0,
+                    "NP2": 0.0
+                },
+                "REDES_DISTRIB": {
+                    "NP1": 0.0,
+                    "NP2": 0.0
+                },
+                "INTELIGENCIA_ART": {
+                    "NP1": 0.0,
+                    "NP2": 0.0
+                },
+                "ESTUDOS_DISCIPLINARES": {
+                    "NP1": 0.0,
+                    "NP2": 0.0
+                },
+                "medias_calc": {
+                    "ENG_SOFT_AGIL": 8.0
+                }
+            }
+        }
+    ],
+    "turmas": [
+        {
+            "id": "f08f81",
+            "nome": "DS2P33"
+        }
+    ]
+}

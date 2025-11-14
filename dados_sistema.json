@@ -1,0 +1,74 @@
+{
+    "usuarios": {
+        "felipe.felix": {
+            "hash": "a320480f534776bddb5cdb54b1e93d210a3c7d199e80a23c1b2178497b184c76",
+            "tipo": "admin"
+        },
+        "rafaela.barreyra": {
+            "hash": "a320480f534776bddb5cdb54b1e93d210a3c7d199e80a23c1b2178497b184c76",
+            "tipo": "professor"
+        },
+        "ademir.felix": {
+            "hash": "a320480f534776bddb5cdb54b1e93d210a3c7d199e80a23c1b2178497b184c76",
+            "tipo": "aluno"
+        }
+    },
+    "alunos": [
+        {
+            "usuario_login": "ademir.felix",
+            "nome_criptografado": "gAAAAABpFtNY0deEh_hsHewEtFljZ7O6ybLg7F_KIAMphSe0wmZPe4S9eT_tH3OfMooa_0CqsfgTT833Ga2nE3Ubn7xDeWo6Bg==",
+            "ra_criptografado": "gAAAAABpFtNYH1EqLZcSrZRracc7oPI2LLNJekx-x1KnnSu4bdEvpaZtWbWkiV-cKon0ASvt8ROrOmIRZuFIBxafnNEjtjBroA==",
+            "turma_id": "44e3e2",
+            "notas_c": {
+                "PIM": 10.0,
+                "ENGENHARIA DE SOFTWARE AGIL": {
+                    "NP1": 7.0,
+                    "NP2": 7.0
+                },
+                "ALGORIT ESTRUT DADOS PYTHON": {
+                    "NP1": 6.0,
+                    "NP2": 6.0
+                },
+                "PROGRAMACAO ESTRUTURADA EM C": {
+                    "NP1": 10.0,
+                    "NP2": 3.0
+                },
+                "ANALISE E PROJETO DE SISTEMAS": {
+                    "NP1": 0.0,
+                    "NP2": 0.0
+                },
+                "PESQUISA TECNOLOG E INOVACAO": {
+                    "NP1": 0.0,
+                    "NP2": 0.0
+                },
+                "EDUCACAO AMBIENTAL": {
+                    "NP1": 0.0,
+                    "NP2": 0.0
+                },
+                "REDES COMP E SIST DISTRIBUIDOS": {
+                    "NP1": 0.0,
+                    "NP2": 0.0
+                },
+                "INTELIGENCIA ARTIFICIAL": {
+                    "NP1": 0.0,
+                    "NP2": 0.0
+                },
+                "ESTUDOS DISCIPLINARES": {
+                    "NP1": 0.0,
+                    "NP2": 0.0
+                },
+                "media_global": {
+                    "ENGENHARIA DE SOFTWARE AGIL": 7.6,
+                    "ALGORIT ESTRUT DADOS PYTHON": 6.8,
+                    "PROGRAMACAO ESTRUTURADA EM C": 7.2
+                }
+            }
+        }
+    ],
+    "turmas": [
+        {
+            "id": "44e3e2",
+            "nome": "DS2P33"
+        }
+    ]
+}
